@@ -1,1 +1,1 @@
-print("안녕하세요. 백지연입니다.")
+print("hello world")
